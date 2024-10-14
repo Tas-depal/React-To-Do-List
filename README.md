@@ -13,6 +13,5 @@ Currently, two official plugins are available:
 
 # Steps to Run the project:
 - Run the following commands:
--   npm create vite@latest
 -   npm i
 -   npm run dev
