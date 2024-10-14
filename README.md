@@ -13,5 +13,5 @@ Currently, two official plugins are available:
 
 # Steps to Run the project:
 - Run the following commands:
-  -- npm i
-  -- npm run dev
+-   npm i
+-   npm run dev
